@@ -4,7 +4,7 @@ from datetime import timedelta, datetime
 from airflow import DAG
 from airflow.models import Variable
 from airflow.contrib.operators.bigquery_operator import BigQueryOperator
-from airflow.contrib.operators.bigquery_check_operator import BigQueryCheckOperator #to check if the table exists on big Query
+from airflow.contrib.operators.bigquery_check_operator import BigQueryCheckOperator #to check if the table exists on big Query 
 
 
 # Config variables
