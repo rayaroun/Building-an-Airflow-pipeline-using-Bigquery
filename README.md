@@ -1,1 +1,1 @@
-I would be saving the files I have used as well as the steps I have taken in order to build the Airflow pipeline.
+I would be saving the files that I have used in the process as well as the steps I have taken in order to build the Airflow pipeline.
